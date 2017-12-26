@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/00-Pruebas/05-Pruebas_Gorka/01_Escenas/Prueba_01_escena_01.unity
+  isLoaded: 1
+  isActive: 1
